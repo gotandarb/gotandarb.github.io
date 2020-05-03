@@ -7,3 +7,22 @@ body {
 .card-style {
   height: 300px
 }
+.organizers-title {
+  margin: 30px 0 15px 0;
+}
+.sns {
+  display: inline-block;
+  margin: 0 5px;
+}
+.sns a {
+  color: grey;
+}
+.sns-twitter a:hover {
+  color: #1DA1F2;
+}
+.sns-facebook a:hover {
+  color: #4267B2;
+}
+.sns-github a:hover {
+  color: black;
+}
