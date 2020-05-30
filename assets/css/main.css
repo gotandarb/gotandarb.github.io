@@ -1,5 +1,8 @@
 body {
-  padding-bottom: 150px
+  padding-bottom: 150px;
+  font-family: Gothic MB101 Light, Hiragino Kaku Gothic W3 JIS2004, 'メイリオ', Meiryo, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+  color: rgba(0,0,0,.87);
+  -webkit-font-smoothing: antialiased;
 }
 .grid-style {
   margin-bottom: 20px
