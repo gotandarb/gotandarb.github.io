@@ -3,6 +3,7 @@ $(function(){
 })
 
 function nextEvent() {
+  // connpass api docs: https://connpass.com/about/api/
   $.ajax({
     dataType: 'jsonp',
     url:'https://connpass.com/api/v1/event/',
